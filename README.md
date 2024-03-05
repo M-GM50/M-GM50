@@ -10,7 +10,7 @@
 
 🚀 Software engineering bootcamp graduate from [Skills City](https://www.skills-city.com/)
 💻 Completed the front-end development course with [Kreativstorm](https://www.kreativstorm.de/)
-🎨 Graphic Design Introduction course at [Parsons School of Design](https://www.newschool.edu/parsons/
+🎨 Graphic Design Introduction course at [Parsons School of Design](https://www.newschool.edu/parsons/)
 
 
 
