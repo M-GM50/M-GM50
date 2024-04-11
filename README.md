@@ -17,7 +17,9 @@
 
 - HTML / CSS / JS
 - React
+- Solid
 - Python
+- PHP
 
 
 
