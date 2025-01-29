@@ -16,7 +16,7 @@
 <hr>
 
 - HTML / CSS / JS
-- React
+- React / React Native
 - Solid
 - Python
 - PHP
